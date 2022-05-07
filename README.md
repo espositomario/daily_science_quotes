@@ -1,7 +1,13 @@
 # Usage
-`fd fd`
+
 make this executable 
+
 `chmod u+x daily_science_quotes.sh`
-simply paste the path of this script in your ~/.bashrc
+
+simply edit your ~/.bashrc
+
 `nano ~/.bashrc`
+
+..and paste this
+
 `path/daily_science_quotes.sh`
