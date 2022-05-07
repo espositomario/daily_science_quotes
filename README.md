@@ -1,10 +1,10 @@
-#Description
+# Description
 
 A simple script contains 31 science quotes for each day of the month. Every time you open the terminal it will print a quote.
 
 
 
-# Usage
+## Usage
 
 make this executable 
 
