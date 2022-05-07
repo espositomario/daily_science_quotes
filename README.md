@@ -1,3 +1,3 @@
 # daily_science_quotes
-##Usage
+## Usage
 `fd fd`
